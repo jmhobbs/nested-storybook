@@ -45,10 +45,6 @@ export default {
     },
   },
 
-  methods: {
-    onClick() {
-      this.$emit('onClick');
-    },
-  },
+  methods: {},
 };
 </script>
